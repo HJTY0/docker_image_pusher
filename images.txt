@@ -1,2 +1,1 @@
-gothesun/letterlab-web
- 
+gothesun/letterlab-web:1.0.0
