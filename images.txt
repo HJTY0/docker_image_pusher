@@ -1,1 +1,1 @@
-zmlccf/elasticsearch-ik:7.12.1
+nginx:1.21.0
